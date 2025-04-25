@@ -24,5 +24,3 @@ A front-end clone of the Netflix homepage made with only HTML and CSS.
 
 Thanks for visiting my profile! 😊
 
-
-ChatGPT
